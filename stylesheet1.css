@@ -45,7 +45,7 @@ a{
   }
 @keyframes bgchange{
       0%   {background-image:url(1gradation.jpg);}/*変化させたい色*/
-      15%  {background-image: url(1-1gradation.jpg);}/*変化させたい色*/
+      12%  {background-image: url(1-1gradation.jpg);}/*変化させたい色*/
       45%  {background-image: url(1-2gradation.jpg);}/*変化させたい色*/
       75%  {background-image: url(1gradation.jpg);}/*変化させたい色*/
       90%  {background-image: url(1-2gradation.jpg);}/*変化させたい色*/
